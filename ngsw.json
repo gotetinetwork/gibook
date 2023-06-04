@@ -1,0 +1,85 @@
+{
+  "configVersion": 1,
+  "timestamp": 1685837703869,
+  "index": "/gibook/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/gibook/favicon.ico",
+        "/gibook/index.html",
+        "/gibook/main.338a0be6d41a3e6a.js",
+        "/gibook/manifest.webmanifest",
+        "/gibook/polyfills.0872bb380c85f0b8.js",
+        "/gibook/runtime.bb943375360d7f85.js",
+        "/gibook/styles.ccef0db4b7e679eb.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/gibook/assets/gibooklogo.png",
+        "/gibook/assets/icons/icon-128x128.png",
+        "/gibook/assets/icons/icon-144x144.png",
+        "/gibook/assets/icons/icon-152x152.png",
+        "/gibook/assets/icons/icon-192x192.png",
+        "/gibook/assets/icons/icon-384x384.png",
+        "/gibook/assets/icons/icon-512x512.png",
+        "/gibook/assets/icons/icon-72x72.png",
+        "/gibook/assets/icons/icon-96x96.png",
+        "/gibook/maticonsoffline.5777df53ac3998e2.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/gibook/assets/gibooklogo.png": "8bdb4bb050bdb5b0374f0647483b6459ab5db402",
+    "/gibook/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/gibook/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/gibook/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/gibook/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/gibook/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/gibook/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/gibook/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/gibook/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/gibook/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/gibook/index.html": "a68016bca5c1ebdb533e4de8ad888d5e14114f75",
+    "/gibook/main.338a0be6d41a3e6a.js": "f049f1a757cd1cc7af06ebf100fd294ec083e89f",
+    "/gibook/manifest.webmanifest": "5dcb8492ff48fcd74aa1d5b781ffb6698bb04152",
+    "/gibook/maticonsoffline.5777df53ac3998e2.woff2": "6295abc278899ea5e6333ac8adcf8e507b9290af",
+    "/gibook/polyfills.0872bb380c85f0b8.js": "9d939defcd1e81ebb2d1a4b8c67457880c81eb3f",
+    "/gibook/runtime.bb943375360d7f85.js": "04d6b8021adeaa8127d2ac8621b98fe2f914606f",
+    "/gibook/styles.ccef0db4b7e679eb.css": "f110447c6f2dce9f555169e40684078632fa74a8"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
