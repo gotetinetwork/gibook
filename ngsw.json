@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1685837703869,
+  "timestamp": 1685907786695,
   "index": "/gibook/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/gibook/favicon.ico",
         "/gibook/index.html",
-        "/gibook/main.338a0be6d41a3e6a.js",
+        "/gibook/main.bfa4124146e8b0fb.js",
         "/gibook/manifest.webmanifest",
         "/gibook/polyfills.0872bb380c85f0b8.js",
         "/gibook/runtime.bb943375360d7f85.js",
@@ -58,8 +58,8 @@
     "/gibook/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/gibook/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/gibook/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/gibook/index.html": "a68016bca5c1ebdb533e4de8ad888d5e14114f75",
-    "/gibook/main.338a0be6d41a3e6a.js": "f049f1a757cd1cc7af06ebf100fd294ec083e89f",
+    "/gibook/index.html": "f5e9f97793a1de34e66148acf6607df3413dde1d",
+    "/gibook/main.bfa4124146e8b0fb.js": "10f06ccba581d900f1f9a03e6f7bee1d887e1b35",
     "/gibook/manifest.webmanifest": "5dcb8492ff48fcd74aa1d5b781ffb6698bb04152",
     "/gibook/maticonsoffline.5777df53ac3998e2.woff2": "6295abc278899ea5e6333ac8adcf8e507b9290af",
     "/gibook/polyfills.0872bb380c85f0b8.js": "9d939defcd1e81ebb2d1a4b8c67457880c81eb3f",
