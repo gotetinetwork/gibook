@@ -19,7 +19,10 @@
         "/gibook/runtime.bb943375360d7f85.js",
         "/gibook/styles.ccef0db4b7e679eb.css"
       ],
-      "patterns": []
+      "patterns": [
+        "/*.css",
+          "/*.js"
+      ]
     },
     {
       "name": "assets",
