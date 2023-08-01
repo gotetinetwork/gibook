@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1690851449198,
+  "timestamp": 1690851814043,
   "index": "/gibook/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/gibook/favicon.ico",
         "/gibook/index.html",
-        "/gibook/main.2dd2181ee549be70.js",
+        "/gibook/main.4b59ff9ad1bb4caf.js",
         "/gibook/manifest.webmanifest",
         "/gibook/polyfills.0872bb380c85f0b8.js",
         "/gibook/runtime.bb943375360d7f85.js",
@@ -40,7 +40,7 @@
         "/gibook/assets/icons/default/icon-512x512.png",
         "/gibook/assets/icons/default/icon-72x72.png",
         "/gibook/assets/icons/default/icon-96x96.png",
-        "/gibook/assets/icons/icon-512X512.png",
+        "/gibook/assets/icons/gicon-512X512.png",
         "/gibook/maticonsoffline.5777df53ac3998e2.woff2"
       ],
       "patterns": []
@@ -57,11 +57,11 @@
     "/gibook/assets/icons/default/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/gibook/assets/icons/default/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/gibook/assets/icons/default/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/gibook/assets/icons/icon-512X512.png": "8bdb4bb050bdb5b0374f0647483b6459ab5db402",
+    "/gibook/assets/icons/gicon-512X512.png": "8bdb4bb050bdb5b0374f0647483b6459ab5db402",
     "/gibook/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/gibook/index.html": "ca781f9249e3a4368648bc97bf1ffa2de3e70ad5",
-    "/gibook/main.2dd2181ee549be70.js": "0e0e7dbab6c4a72bfe3c011e925a5578629ca370",
-    "/gibook/manifest.webmanifest": "5dcb8492ff48fcd74aa1d5b781ffb6698bb04152",
+    "/gibook/index.html": "b007d28880b0c91797124526d7b9db248157c307",
+    "/gibook/main.4b59ff9ad1bb4caf.js": "410ca7f870247413428a04a7145823db156c9567",
+    "/gibook/manifest.webmanifest": "e85dcdf9b35e563ac128493322ce203bfb483118",
     "/gibook/maticonsoffline.5777df53ac3998e2.woff2": "6295abc278899ea5e6333ac8adcf8e507b9290af",
     "/gibook/polyfills.0872bb380c85f0b8.js": "9d939defcd1e81ebb2d1a4b8c67457880c81eb3f",
     "/gibook/runtime.bb943375360d7f85.js": "04d6b8021adeaa8127d2ac8621b98fe2f914606f",
